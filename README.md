@@ -2,10 +2,16 @@
 
 # EduTechX
 
+- Prototype: https://www.figma.com/file/kdyBnb6wPnBQt6XAi6v2vY/EduTechX--Hackathon-By-SAYNA?type=design&node-id=1%3A1143&mode=design&t=3MMFc3y2GFJF1fIh-1
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
-EduTechX est une plateforme d'apprentissage en ligne révolutionnaire qui transforme l'expérience éducative en offrant des fonctionnalités innovantes et captivantes. Notre plateforme utilise les dernières technologies pour offrir aux étudiants une immersion totale dans leur processus d'apprentissage.
+Notre projet, EduTechX, est une plateforme en ligne qui vise à soutenir les lycéens dans leur parcours éducatif. Nous ne cherchons pas à remplacer les enseignements présentiels traditionnels, mais plutôt à compléter l'expérience des étudiants en leur fournissant des ressources supplémentaires. À Madagascar, de nombreux élèves ont besoin d'un soutien supplémentaire en dehors de leur lycée en présentiel, et c'est là que nous intervenons. Grâce à des fonctionnalités innovantes et interactives, comme la réalité virtuelle, l'intelligence artificielle et les chatbots éducatifs, nous visons à rendre l'apprentissage en ligne plus engageant et interactif pour les étudiants. Notre objectif est de créer un environnement d'apprentissage stimulant où les étudiants peuvent développer leurs compétences et explorer de nouvelles connaissances de manière enrichissante.
+
+Mais notre objectif à long terme ne s'arrête pas là. Nous aspirons à aider les lycéens et les étudiants dans leur orientation professionnelle en centralisant toutes les données essentielles sur les universités, les formations et les débouchés. Grâce à cette approche, EduTechX offrira aux jeunes un accès facile et complet à toutes les informations nécessaires pour prendre des décisions éclairées concernant leur avenir professionnel.
+
+S'ils ont déjà une idée de carrière en tête, ils pourront accéder à toutes les universités adaptées à leur choix, découvrir les opportunités de métiers correspondantes, connaître les compétences requises, et bénéficier de roadmaps inspirants partagés par des professionnels qui ont suivi la même voie. Pour ceux qui ont besoin d'aide dans leur orientation, nous proposons des tests d’orientation qui les guident vers les métiers qui leur sont adaptés, tout en explorant les débouchés possibles. EduTechX vise à donner aux jeunes les moyens de prendre des décisions éclairées sur leur avenir professionnel et à ouvrir les portes d'un futur prometteur et épanouissant.
 
 ## Fonctionnalités
 - **Apprentissage en réalité virtuelle (VR)** : Plongez dans des environnements virtuels réalistes et interagissez avec des objets en 3D, permettant aux étudiants d'explorer des sujets complexes de manière pratique et engageante.
@@ -17,14 +23,6 @@ EduTechX est une plateforme d'apprentissage en ligne révolutionnaire qui transf
 - **Collaboration et discussions en ligne** : Encouragez la collaboration entre les étudiants grâce à des fonctionnalités de discussion en groupe, de partage de fichiers et de travail collaboratif sur des projets.
 - **Interface conviviale et design moderne** : Profitez d'une interface utilisateur attrayante, intuitive et facile à utiliser, avec un design moderne qui rend l'apprentissage en ligne agréable et stimulant.
 
-
-## Contribuer
-Nous accueillons les contributions de la communauté ! Si vous souhaitez contribuer à EduTechX, suivez ces étapes :
-1. Forkez le dépôt.
-2. Créez votre branche de fonctionnalité : `git checkout -b feature/votre-fonctionnalité`.
-3. Effectuez vos modifications : `git commit -m 'Ajouter une fonctionnalité'`.
-4. Poussez vos modifications vers la branche : `git push origin feature/votre-fonctionnalité`.
-5. Soumettez une pull request.
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
