@@ -19,6 +19,34 @@
 | **Structure des coûts** | - Développement et maintenance de la plateforme. - Coûts d'hébergement et d'infrastructure. - Marketing et promotion de la plateforme. - Rémunération de l'équipe et des experts. |
 | **Avantages concurrentiels** | - Plateforme interactive avec des fonctionnalités avancées telles que la réalité virtuelle et l'intelligence artificielle. - Base de données complète sur les universités et les opportunités de carrière à Madagascar. - Engagement de la communauté des étudiants et des experts pour une expérience d'apprentissage enrichissante. |
 
+- Voici la Roadmap (étapes clés de développement) du projet EduTechX :
+
+## Phase de Développement Initial (Mois 1 - Mois 3) :
+Définir clairement le concept commercial et la proposition de valeur de la plateforme EduTechX.
+Constituer une équipe de développement compétente et engagée.
+Effectuer une étude de marché approfondie pour comprendre les besoins des lycéens, étudiants et établissements d'enseignement.
+Concevoir et développer les fonctionnalités de base du MVP (Minimum Viable Product).
+
+## Phase de Test et d'Amélioration (Mois 4 - Mois 6) :
+Mettre en place le MVP et le tester en interne pour identifier les bogues et les problèmes de convivialité.
+Lancer une version bêta auprès d'un groupe d'utilisateurs précoces pour recueillir des commentaires et des suggestions.
+Analyser les données et les commentaires des utilisateurs pour améliorer les fonctionnalités et l'expérience utilisateur.
+
+## Phase de Lancement (Mois 7 - Mois 9) :
+Améliorer le MVP en fonction des commentaires et des résultats des tests bêta.
+Lancer la version complète de la plateforme EduTechX avec toutes les fonctionnalités de base.
+Déployer des campagnes de marketing et de sensibilisation pour attirer de nouveaux utilisateurs.
+
+## Phase d'Expansion (Mois 10 - Mois 12) :
+Établir des partenariats stratégiques avec des établissements d'enseignement pour accroître la diffusion de la plateforme.
+Ajouter de nouvelles fonctionnalités avancées telles que la réalité virtuelle et l'intelligence artificielle.
+Développer une base de données complète sur les universités et les opportunités de carrière à Madagascar.
+
+## Phase de Croissance Continue (Après le Mois 12) :
+Continuer à recueillir les commentaires des utilisateurs et à améliorer la plateforme en fonction des besoins du marché.
+Élargir la gamme de services proposés en ajoutant des fonctionnalités innovantes et en répondant aux demandes des utilisateurs.
+Développer une communauté d'étudiants et d'experts engagés pour favoriser l'échange de connaissances et d'expériences.
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
