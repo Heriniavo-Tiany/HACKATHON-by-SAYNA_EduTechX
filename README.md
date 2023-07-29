@@ -4,6 +4,20 @@
 
 - Prototype: https://www.figma.com/file/kdyBnb6wPnBQt6XAi6v2vY/EduTechX--Hackathon-By-SAYNA?type=design&node-id=1%3A1143&mode=design&t=3MMFc3y2GFJF1fIh-1
 - Questionnaire de validation du marché: https://iynexdxcofx.typeform.com/to/bjG8WOg4
+- Lean Business Model Canvas:
+
+| **Segment de clientèle** | Lycéens et étudiants à Madagascar. Établissements d'enseignement (lycées, universités, écoles) comme partenaires potentiels. |
+|-------------------------|----------------------------------------------------------------------------------------------|
+| **Proposition de valeur** | - Offrir une plateforme éducative interactive et engageante pour améliorer l'apprentissage en ligne. - Fournir des ressources supplémentaires pour compléter l'enseignement traditionnel. - Centraliser les informations sur les universités, les opportunités de carrière et le mentorat. |
+| **Canaux de distribution** | - Site Web et application mobile. - Partenariats avec des établissements d'enseignement pour une diffusion plus large. - Marketing digital et campagnes de sensibilisation sur les réseaux sociaux. |
+| **Relation client** | - Support en ligne et assistance pour les utilisateurs. - Collecte de commentaires et d'avis des utilisateurs pour améliorer la plateforme. - Interaction avec la communauté des étudiants et des experts. |
+| **Sources de revenus** | - Modèle freemium avec des fonctionnalités de base gratuites et des fonctionnalités avancées payantes. - Abonnements mensuels ou annuels pour l'accès premium. |
+| **Ressources clés** | - Équipe de développement pour la conception et la maintenance de la plateforme. - Contenu éducatif et base de données sur les universités et les opportunités de carrière. - Partenariats avec des établissements d'enseignement et des experts en éducation. |
+| **Activités clés** | - Développement continu de la plateforme et des fonctionnalités. - Collecte et mise à jour régulière des informations sur les universités et les opportunités de carrière. - Promotion et marketing pour attirer de nouveaux utilisateurs. |
+| **Partenaires clés** | - Établissements d'enseignement pour le contenu et les partenariats de distribution. - Experts en éducation pour le mentorat et les ressources pédagogiques. |
+| **Structure des coûts** | - Développement et maintenance de la plateforme. - Coûts d'hébergement et d'infrastructure. - Marketing et promotion de la plateforme. - Rémunération de l'équipe et des experts. |
+| **Avantages concurrentiels** | - Plateforme interactive avec des fonctionnalités avancées telles que la réalité virtuelle et l'intelligence artificielle. - Base de données complète sur les universités et les opportunités de carrière à Madagascar. - Engagement de la communauté des étudiants et des experts pour une expérience d'apprentissage enrichissante. |
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
