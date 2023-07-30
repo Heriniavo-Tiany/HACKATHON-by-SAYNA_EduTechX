@@ -5,6 +5,7 @@
 - Vidéos de Pitch: https://drive.google.com/drive/folders/1ygKg_hRyUGDO7BoiBEBsLt8AeWymBJNw?usp=sharing
 - Prototype: https://www.figma.com/file/kdyBnb6wPnBQt6XAi6v2vY/EduTechX--Hackathon-By-SAYNA?type=design&node-id=1%3A1143&mode=design&t=3MMFc3y2GFJF1fIh-1
 - Questionnaire de validation du marché: https://iynexdxcofx.typeform.com/to/bjG8WOg4
+- MVP: https://edutechx.netlify.app/
 - Lean Business Model Canvas:
 
 | **Segment de clientèle** | Lycéens et étudiants à Madagascar. Établissements d'enseignement (lycées, universités, écoles) comme partenaires potentiels. |
